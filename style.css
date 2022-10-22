@@ -1,0 +1,83 @@
+@charset  "UTF-8";
+
+
+body {
+    margin: 0px;
+    padding: 0px 10px;
+}
+
+.geral {
+    background-color: rgb(233, 233, 233);
+    padding: 5px 10px 0px;
+}
+
+#color {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 15px 0px;
+}
+
+.gera {
+    background-color: rgb(204, 204, 204);
+    margin: 0px 15px;
+}
+
+header {
+    background-color: rgb(102, 102, 102);
+    padding: 20px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    padding: 0px 200px;
+}
+
+#menu {
+    width: 15%;
+    float: left;
+}
+
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    height: 150px;
+    width: 50px;
+    margin-bottom: 5px;
+    font-size: 1.1em;
+    padding: 26px 10px 0px 20px;
+}
+
+#conteudo {
+    background-color: rgb(241, 241, 241);
+    width: 85%;
+    float: left;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 3em;
+    text-align: justify;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 15px 0px 0px 15px;
+}
+
+p {
+    padding: 0px 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+footer {
+    display: block;
+    background-color: rgb(102, 102, 102);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em;
+    text-align: center;
+    color: white;
+    clear: both;
+    padding: 30px
+}
